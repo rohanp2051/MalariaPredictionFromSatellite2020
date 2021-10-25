@@ -1,0 +1,1 @@
+# MalariaPredictionFromSatellite2020
