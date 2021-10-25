@@ -23,3 +23,7 @@ I developed six different machine learning models: linear regression, lasso regr
 I found that NDVI was not as highly correlated to prevalence as I assumed, with total and monthly rainfall being the feature vectors that were most highly correlated. Lasso regression performed the best and led me to find that a limited number of variables can produce a usable model.
 
 My data-driven approach could help local healthcare systems anticipate caseloads with limited spatiotemporal data, which is critical for rapidly emerging urban settlements in Sub-Saharan Africa.
+
+
+## Presentation
+[PDF Presentation](http://www.sefmd.org/ArchiveUploads/2021/2190/2190_02.pdf)
