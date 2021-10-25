@@ -1,4 +1,4 @@
-# MalariaPredictionFromSatellite2020
+# Machine learning model to predict malaria caseload using remote sensing data
 
 
 ## Research Plan
