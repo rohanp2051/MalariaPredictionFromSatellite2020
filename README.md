@@ -1,4 +1,4 @@
-# Machine learning model to predict malaria caseload using remote sensing data
+# Machine learning models to predict malaria caseload using remote sensing data
 
 
 ## Research Plan
